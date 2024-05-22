@@ -1,0 +1,8 @@
+--CREATE TABLE IF NOT EXISTS employee (
+--    id INT PRIMARY KEY AUTO_INCREMENT,
+--    firstName VARCHAR(255),
+--    lastName VARCHAR(255),
+--    email VARCHAR(255),
+--    position_id INT,
+--    FOREIGN KEY (position_id) REFERENCES positions(id)
+--);

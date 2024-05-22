@@ -1,0 +1,8 @@
+--CREATE TABLE IF NOT EXISTS positions (
+--    id INT PRIMARY KEY AUTO_INCREMENT,
+--    name VARCHAR(255),
+--    description VARCHAR(255),
+--    department VARCHAR(255),
+--    salary DOUBLE,
+--    location VARCHAR(255)
+--);
